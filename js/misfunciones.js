@@ -372,6 +372,3 @@ function guardarReservation(){
         }
         });
 }
-
-
-
