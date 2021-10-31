@@ -20,7 +20,6 @@
     
     
     })
-
 }
 function  obtRespuestaCategory(respuesta){
 
