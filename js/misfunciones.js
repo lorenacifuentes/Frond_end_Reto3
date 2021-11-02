@@ -128,7 +128,7 @@ function guardarRoom(){
         dataType: 'JSON',
         data: JSON.stringify(var2),
         
-        url:"http://129.151.125.224:8080/api/Client/save",
+        url:"http://129.151.125.224:8080/api/Room/save",
         //url:"http://localhost:8080/api/Client/save",
        
         
